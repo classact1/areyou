@@ -18,8 +18,8 @@ function escape(){
 }
 
 function changeBtnText(){
-   noButton.innerText = 'YES';
-   yesButton.innerText = 'NO';
+   noButton.innerText = 'TAK';
+   yesButton.innerText = 'NIE';
 }
 
 function triggerVideo(){
