@@ -14,7 +14,7 @@ body {
 
 h1 {
    text-transform: uppercase;
-   font-size: 70px;
+   font-size: 50px;
    margin-bottom: 20px;
 }
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 .answer {
-   font-size: 30px;
+   font-size: 35px;
    background: #ECECEA;
    outline: none;
    padding: 10px;
