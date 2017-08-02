@@ -31,4 +31,5 @@ function triggerVideo(){
 
 noButton.addEventListener('mouseenter', escape);
 noButton.addEventListener('click', triggerVideo);
+yesButton.addEventListener('click', triggerVideo);
 
